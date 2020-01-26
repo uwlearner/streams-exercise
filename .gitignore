@@ -3,3 +3,4 @@
 
 # GENERAL PYTHON FILES
 __pycache__/
+*.pyc
